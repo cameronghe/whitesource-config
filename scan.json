@@ -1,0 +1,7 @@
+{
+  "repositories": [
+    {
+      "fullName": [ "cameronghe/gradle-project", "cameronghe/bower-project", "cameronghe/npm-project", "cameronghe/maven-test", "cameronghe/python-poetry-test" ]
+    }
+  ]
+}
