@@ -7,7 +7,7 @@
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true,
-    "strictMode": "warning"
+    "strictMode": "failOnWarning"
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
